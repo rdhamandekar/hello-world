@@ -1,2 +1,3 @@
 # hello-world
-Just another repostory
+HI,
+I would like to learn Angular
